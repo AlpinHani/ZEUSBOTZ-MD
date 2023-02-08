@@ -21,9 +21,9 @@ let wktus = moment.tz('Asia/Jakarta').format('ss')
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['6282287750102'] // Put your number here
-global.mods = ['6282287750102'] // Want some help?
-global.prems = ['6282287750102'] // Premium user has unlimited limit
+global.owner = ['84876459724'] // Put your number here
+global.mods = ['84876459724'] // Want some help?
+global.prems = ['84876459724'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
